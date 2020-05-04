@@ -1,0 +1,12 @@
+C:\Users\EGOR4\source\repos\TheWork\TheWork\bin\Debug\TheWork.exe
+C:\Users\EGOR4\source\repos\TheWork\TheWork\bin\Debug\TheWork.pdb
+C:\Users\EGOR4\source\repos\TheWork\TheWork\obj\Debug\TheWork.csprojAssemblyReference.cache
+C:\Users\EGOR4\source\repos\TheWork\TheWork\obj\Debug\TheWork.Form1.resources
+C:\Users\EGOR4\source\repos\TheWork\TheWork\obj\Debug\TheWork.Properties.Resources.resources
+C:\Users\EGOR4\source\repos\TheWork\TheWork\obj\Debug\TheWork.csproj.GenerateResource.cache
+C:\Users\EGOR4\source\repos\TheWork\TheWork\obj\Debug\TheWork.csproj.CoreCompileInputs.cache
+C:\Users\EGOR4\source\repos\TheWork\TheWork\obj\Debug\TheWork.exe
+C:\Users\EGOR4\source\repos\TheWork\TheWork\obj\Debug\TheWork.pdb
+C:\Users\EGOR4\source\repos\TheWork\TheWork\bin\Debug\Cities.dll
+C:\Users\EGOR4\source\repos\TheWork\TheWork\bin\Debug\Cities.pdb
+C:\Users\EGOR4\source\repos\TheWork\TheWork\obj\Debug\TheWork.csproj.CopyComplete
