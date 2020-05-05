@@ -51,8 +51,7 @@ namespace TheWork
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            if (CountR < 7)
-            {
+            
                 CountC += 1;
                 CountR += 1;
                 Grid.ColumnCount = CountC;
@@ -61,7 +60,7 @@ namespace TheWork
                 Grid.Rows[CountR - 1].HeaderCell.Value = CountR + "A";
                 Grid.Columns[CountC - 1].Width = 40;
                 Grid.Rows[CountR - 1].Cells[CountC - 1].ReadOnly = true;
-            }
+            
         }
 
         private void Grid_CellValueChanged(object sender, DataGridViewCellEventArgs e)

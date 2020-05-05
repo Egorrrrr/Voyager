@@ -87,11 +87,12 @@
             // 
             // Add
             // 
-            this.Add.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.Add.Location = new System.Drawing.Point(630, 342);
+            this.Add.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F);
+            this.Add.Location = new System.Drawing.Point(630, 317);
             this.Add.Name = "Add";
-            this.Add.Size = new System.Drawing.Size(153, 58);
+            this.Add.Size = new System.Drawing.Size(153, 83);
             this.Add.TabIndex = 1;
+            this.Add.Text = "Нарисовать случайный маршрут (тест графики)";
             this.Add.UseVisualStyleBackColor = true;
             this.Add.Click += new System.EventHandler(this.Add_Click);
             // 
@@ -108,11 +109,12 @@
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.button1.Location = new System.Drawing.Point(630, 243);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(153, 58);
             this.button1.TabIndex = 4;
+            this.button1.Text = "Таблица";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 

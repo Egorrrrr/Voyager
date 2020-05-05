@@ -4,3 +4,9 @@ C:\Users\EGOR4\source\repos\TheWork\Cities\obj\Debug\Cities.csprojAssemblyRefere
 C:\Users\EGOR4\source\repos\TheWork\Cities\obj\Debug\Cities.csproj.CoreCompileInputs.cache
 C:\Users\EGOR4\source\repos\TheWork\Cities\obj\Debug\Cities.dll
 C:\Users\EGOR4\source\repos\TheWork\Cities\obj\Debug\Cities.pdb
+C:\Users\EGOR4\Documents\GitHub\Voyager\Cities\bin\Debug\Cities.dll
+C:\Users\EGOR4\Documents\GitHub\Voyager\Cities\bin\Debug\Cities.pdb
+C:\Users\EGOR4\Documents\GitHub\Voyager\Cities\obj\Debug\Cities.csprojAssemblyReference.cache
+C:\Users\EGOR4\Documents\GitHub\Voyager\Cities\obj\Debug\Cities.csproj.CoreCompileInputs.cache
+C:\Users\EGOR4\Documents\GitHub\Voyager\Cities\obj\Debug\Cities.dll
+C:\Users\EGOR4\Documents\GitHub\Voyager\Cities\obj\Debug\Cities.pdb
